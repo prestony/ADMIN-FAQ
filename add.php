@@ -1,7 +1,7 @@
 <?php
 
 	// connect with database
-	$conn = new PDO("mysql:host=localhost;dbname=faq", "prestony", "@Tenderso#2023");
+	$conn = new PDO("mysql:host=localhost;dbname=faq", "prestony", "🤔🤔🤔😈😈😈😈");
 
 	// check if insert form is submitted
 	if (isset($_POST["submit"]))
