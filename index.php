@@ -1,7 +1,7 @@
 <?php
 
 	// connect with database
-	$conn = new PDO("mysql:host=localhost;dbname=faq", "prestony", "@Tenderso#2023");
+	$conn = new PDO("mysql:host=localhost;dbname=faq", "prestony", "🤔🤔🤔😈😈😈😈");
 
 	// fetch all FAQs from database
 	$sql = "SELECT * FROM faqs";
